@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prannoy Giri
-====================================================================================================================================
-
-Full Stack Engineer
+Hello! 👋 My name is Prannoy Giri
+=============================
+* Full Stack Engineer
 -------------------
 
-Engineer with passion for reading and solving problem. I have 6 years of experience and I love working in challenging projects.
+I'm software engineer and I'm passionate about reading. I have 6 years of experience working in industry like Programmatic Advertisement, Socical Media Platform and Digital Transformation.
 
 *   🌍  I'm based in Bengaluru
 *   🖥️  See my portfolio at [prannoygiri.com](http://prannoygiri.com)
@@ -12,3 +11,11 @@ Engineer with passion for reading and solving problem. I have 6 years of experie
 *   🚀  I'm currently working on [ATDXT](http://atdxt.com)
 *   🧠  I'm learning Kubernetes
 *   🤝  I'm open to collaborating on Cryptocurrenty and Machine Learning
+
+*   
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/309cc6425cace52b184c94e5152a2a70ac40c642ab4f4cdd8a371a4989e5c91f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667"><img src="https://camo.githubusercontent.com/309cc6425cace52b184c94e5152a2a70ac40c642ab4f4cdd8a371a4989e5c91f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/java-icon.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3578157355b1ac74d38d0f89d1022095ba7f7a988db091cef0fa4a62685e87e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/b3578157355b1ac74d38d0f89d1022095ba7f7a988db091cef0fa4a62685e87e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%;"></a>
