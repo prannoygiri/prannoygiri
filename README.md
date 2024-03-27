@@ -10,6 +10,9 @@ I'm software engineer and I'm passionate about reading. I have 6 years of experi
 *   ✉️  You can contact me at [prannoygiri@gmail.com](mailto:prannoygiri@gmail.com)
 *   🚀  I'm currently working on [ATDXT](http://atdxt.com)
 *   🌐  I'm interested in learning how technology will influence our future.
+
+![pngwing com](https://github.com/prannoygiri/prannoygiri/assets/8298294/0ecf2e4b-7323-404f-8da5-e4de8c08f56e)
+
   
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/309cc6425cace52b184c94e5152a2a70ac40c642ab4f4cdd8a371a4989e5c91f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667"><img src="https://camo.githubusercontent.com/309cc6425cace52b184c94e5152a2a70ac40c642ab4f4cdd8a371a4989e5c91f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/java-icon.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"></a>
