@@ -11,6 +11,7 @@ I'm software engineer and I'm passionate about reading. I have 6 years of experi
 *   🚀  I'm currently working on [ATDXT](http://atdxt.com)
 *   🌐  I'm interested in learning how technology will influence our future.
 
+![icons8-python](https://github.com/prannoygiri/prannoygiri/assets/8298294/a3b5d551-d2f7-4804-b3eb-ec41ac268b1a)
 
 
 
@@ -19,7 +20,8 @@ I'm software engineer and I'm passionate about reading. I have 6 years of experi
   
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/prannoygiri/prannoygiri/assets/8298294/ebabc01c-f2bd-4940-8875-80d57e30ef83![icons8-java-48]" alt="icon" width="50" height="50" style="max-width: 100%;"></a>
     
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/prannoygiri/prannoygiri/assets/8298294/a3b5d551-d2f7-4804-b3eb-ec41ac268b1a![icons8-python]" alt="icon" width="50" height="50" style="max-width: 100%;"></a>
+  
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/d2e764d63294c27eff3598ae3a0df5884b4efcabbdbbd200e51472cddf4a3f03/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"></a>
