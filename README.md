@@ -1,9 +1,8 @@
-![icons-java](https://github.com/prannoygiri/prannoygiri/assets/8298294/1af8d3fa-7a99-4411-8f16-90c4da17ab51)![icons-java](https://github.com/prannoygiri/prannoygiri/assets/8298294/2788542e-27cd-4e33-9985-717bd207ad80)![icons-java](https://github.com/prannoygiri/prannoygiri/assets/8298294/0e5ac5fa-3392-4188-9569-390b8e591da3)Hello! 👋 My name is Prannoy Giri
+Hello! 👋 My name is Prannoy Giri
 =============================
-* Full Stack Engineer
 -------------------
 
-I'm a software engineer who is passionate in reading. I have 6 years of experience working in industries like Programmatic Advertisement, Social Media Platforms and Digital Transformation.
+I'm a software engineer who is passionate about reading. I have more than 6 years of experience working in industries like Programmatic Advertisement, Social Media Platforms and Digital Transformation.
 
 *   🌍  I'm based in Bengaluru
 *   🖥️  See my portfolio at [prannoygiri.com](http://prannoygiri.com)
