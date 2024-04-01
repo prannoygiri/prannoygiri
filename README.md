@@ -3,13 +3,15 @@
 * Full Stack Engineer
 -------------------
 
-I'm software engineer and I'm passionate about reading. I have 6 years of experience working in industry like Programmatic Advertisement, Socical Media Platform and Digital Transformation.
+I'm a software engineer who is passionate in reading. I have 6 years of experience working in industries like Programmatic Advertisement, Social Media Platforms and Digital Transformation.
 
 *   🌍  I'm based in Bengaluru
 *   🖥️  See my portfolio at [prannoygiri.com](http://prannoygiri.com)
 *   ✉️  You can contact me at [prannoygiri@gmail.com](mailto:prannoygiri@gmail.com)
-*   🚀  I'm currently working on [ATDXT](http://atdxt.com)
-*   🌐  I'm interested in learning how technology will influence our future.
+*   🚀  I'm currently working at [ATDXT](http://atdxt.com)
+*   🌐  I'm interested in learning how technology influences our future.
+
+Some of my skills lie in the languages and tools mentioned below:
 
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/prannoygiri/prannoygiri/assets/8298294/42c55d78-eb24-4241-8781-dcb4cc5cf93b![icons8-java]" alt="Java" width="50" height="50" style="max-width: 100%;"></a> 
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/prannoygiri/prannoygiri/assets/8298294/a3b5d551-d2f7-4804-b3eb-ec41ac268b1a![icons8-python]" alt="Python" width="50" height="50" style="max-width: 100%;"></a>
@@ -17,16 +19,15 @@ I'm software engineer and I'm passionate about reading. I have 6 years of experi
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/prannoygiri/prannoygiri/assets/8298294/c6f13e35-82f9-4361-ba7d-7b56e55f73d5![icons8-javascript]" alt="JavaScript" width="50" height="50" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/prannoygiri/prannoygiri/assets/8298294/ee45da30-9554-4036-b04f-530a765b92ba![icons8-docker-48]" alt="Docker" width="50" height="50" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/prannoygiri/prannoygiri/assets/8298294/5cb881b3-8a2b-4701-899d-813d82acd819![icons8-amazon-web-services-48]" alt="AWS" width="50" height="50" style="max-width: 100%;"></a>
-   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="ReactJs" width="50" height="50" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/prannoygiri/prannoygiri/assets/8298294/5f1cd8ba-f2bf-440c-9fec-226bcefa60bd![icons8-postgresql-48]" alt="PostgreSQL" width="50" height="50" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="ReactJs" width="50" height="50" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="50" height="50" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest" width="50" height="50" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="GraphQL" width="50" height="50" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="GraphQL" width="50" height="50" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="GraphQL" width="50" height="50" style="max-width: 100%;"></a>
+
   
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/d18841391a409a8e3a3998ce977df48f4a0d0908e593f9d9d9da3946c2e68564/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a>
-  
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"></a>
-
- 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/82935f72bd8f7a84991ceeb91cba325f0ae3b00f7fb2af42da60a81d3ff631b4/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f70726574746965722d69636f6e2e737667"><img src="https://camo.githubusercontent.com/82935f72bd8f7a84991ceeb91cba325f0ae3b00f7fb2af42da60a81d3ff631b4/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f70726574746965722d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/prettier-icon.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/06ebb2c20cfd35f27db6d25b0a03f5a0d078f63e20c098c6ce461b7bffd18d60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/06ebb2c20cfd35f27db6d25b0a03f5a0d078f63e20c098c6ce461b7bffd18d60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7659f246bfe0c709dd396799463f073b97d55fc4c2a884ba27005389fac45b73/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/7659f246bfe0c709dd396799463f073b97d55fc4c2a884ba27005389fac45b73/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667" alt="icon" width="50" height="50" data-canonical-src="https://techstack-generator.vercel.app/graphql-icon.svg" style="max-width: 100%;"></a>
-
