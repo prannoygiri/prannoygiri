@@ -28,6 +28,5 @@ Some of my skills lie in the languages and tools mentioned below:
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="GraphQL" width="50" height="50" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="GraphQL" width="50" height="50" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="GraphQL" width="50" height="50" style="max-width: 100%;"></a>
 
   
