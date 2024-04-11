@@ -2,7 +2,7 @@ Hello! 👋 My name is Prannoy Giri
 =============================
 -------------------
 
-I'm a software engineer who is passionate about reading. I have more than 6 years of experience working in industries like Programmatic Advertisement, Social Media Platforms and Digital Transformation.
+I'm a software engineer who loves to read. I have about 7 years of experience working in industries like Programmatic Advertisement, Social Media Platforms and Digital Transformation.
 
 *   🌍  I'm based in Bengaluru
 *   🖥️  See my portfolio at [prannoygiri.com](http://prannoygiri.com)
